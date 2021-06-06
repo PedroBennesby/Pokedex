@@ -22,6 +22,7 @@
   }
 
   &__name {
+    text-transform: capitalize;
     color: #313131;
     font-size: 145%;
     margin: 0.5em 0;
@@ -33,12 +34,12 @@
   }
 
   &__type {
+    text-transform: capitalize;
     margin: 0 10px;
     border-radius: 3px;
     line-height: 18px;
     max-width: 110px;
     width: 38.4375%;
-    float: left;
     font-size: 11px;
     text-align: center;
 
